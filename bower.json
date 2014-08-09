@@ -1,5 +1,5 @@
 {
-  "name": "jQuery-One-Page-Nav",
+  "name": "single-page-nav",
   "version": "3.0.0",
   "main": [
     "jquery.nav.js"
